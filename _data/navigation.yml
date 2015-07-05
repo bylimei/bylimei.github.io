@@ -1,0 +1,24 @@
+# Site navigation links
+
+
+- title: <span class = "fa fa-book"></span> 世紀末風情畫
+  url: /fiction/
+
+- title: <span class = "fa fa-pencil"></span> 往日 
+  url: /text/
+
+- title: <span class = "fa fa-pencil"></span> 情懷  
+  url: /poetry/
+  
+- title: <span class = "fa fa-pencil"></span> 漾漾 
+  url: /yangyang/ 
+
+- title: <span class = "fa  fa-camera-retro"></span> Photography
+  url: /gallery/
+
+- title: <span class = "fa fa-info-circle"></span> About
+  url: /about/
+
+- title: <span class = "fa fa-home"></span> Home
+  url: /
+
