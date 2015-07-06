@@ -9,10 +9,7 @@ url: http://bylimei.net
 
 # For local testing with
 #  bundle exec jekyll serve  --host 0.0.0.0
-url: http://192.168.1.9:4000
-
-
-#logo: limei.png
+# url: http://192.168.1.9:4000
 
 search: false
 share: false
