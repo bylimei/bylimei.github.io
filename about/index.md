@@ -22,7 +22,7 @@ title: About
   <h3>著作權&nbsp;&nbsp;<span class = "fa fa-legal"></span>&nbsp;&nbsp;Licence</h3>
   <p>著作權為張梨美所有，任何用途之使用，請徵求本人同意。<span class="acknowledgements"><a href="https://github.com/bylimei/bylimei"><span class = "fa fa-external-link"></span></a>.</span></p>
   <p>Unless otherwise stated, text and photographs are Copyright Li-Mei Chang; permission is required for any use.
-  Original source code on these webpages can be reused under MIT Licence <span class="acknowledgements"><a href="https://github.com/bylimei/bylimei"><span class = "fa fa-external-link"></span></a>.</span></p>
+  Original source code on these webpages can be reused under MIT Licence <span class="acknowledgements"><a href="https://github.com/bylimei/bylimei.github.io"><span class = "fa fa-external-link"></span></a>.</span></p>
 
 </section>
 
