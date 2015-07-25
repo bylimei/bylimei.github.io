@@ -33,7 +33,7 @@ Aren't you even afraid of hearing about 'love?'\\
 Shall we start calculating, measuring, and numbering:\\
 Be practical, be rational, and be a good worker\\
 In this damn fucking world\\
-Where sharing an caring are becoming burdens, problems.
+Where sharing and caring are becoming burdens, problems.
 
 I do not ask for a dozen of roses;\\
 Why do you even deny my entry into your garden?\\

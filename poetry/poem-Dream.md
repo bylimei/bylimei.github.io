@@ -10,7 +10,7 @@ Paint a blue sky\\
 Brush a blue seagull\\
 Make a fruit salad\\
 With\\
-Straberries from the basket\\
+Strawberries from the basket\\
 Green apples from the garden\\
 Taste\\
 With delight\\

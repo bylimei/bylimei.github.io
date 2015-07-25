@@ -20,7 +20,7 @@ I will follow your imagination.\\
 No more is my sadness;\\
 No more is any exploitation.\\
 I love him (Basquiat)\\
-Caring such a sensitivity:\\
+Carrying such a sensitivity:\\
 'I do not like to exploit anyone.'
 
 Starry is the night;\\
